@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <title>Cheeseburger Meatloaf</title>
+ </head>
+
+    <body>
+    <h1>Cheddar-Cheeseburger-Meatloaf</h1>  
+    <img src = '/images/Cheddar Cheeseburger Meatloaf .jpg' alt="Meatloaf" style="width:400px;height:400px"> 
+    <p> This meatloaf-cheeseburger hybrid is just as comforting as the kind mom used to make, but with a little more personality (hello, melty nuggets of cheddar!).</p>
+    <div>
+        <h4>Ingredients</h4>
+        <ul>
+            <li>1/4 cup plain breadcrumbs ($0.06)</li>
+            <li>1 tsp smoked paprika ($0.10)</li>
+            <li>1/2 tsp garlic powder ($0.05)</li>
+            <li>3/4 tsp salt ($0.03)</li>
+            <li>1 large egg ($0.27)</li>
+            <li>1/2 cup minced onion ($0.16)</li>
+            <li>4 oz. sharp cheddar ($0.85)</li>
+            <li>1 lb. ground beef (85/15) ($5.29)</li>        
+        </ul>
+    </div>
+    <div>
+        <H4>Directions</H4>
+        <ul>
+            <li>Step 1
+                Preheat the oven to 350ºF. In a small bowl stir together the breadcrumbs, smoked paprika, garlic powder, and salt. In a separate small bowl, lightly whisk the egg.</li>
+            <li>Step 2
+                Finely mince the onion. Roughly chop the cheddar cheese so that it is in pieces about the same size as a small bean.</li>    
+            <li>Step 3
+                Add the ground beef, seasoned breadcrumbs, whisked egg, minced onion, and chopped cheddar to a bowl. Use your hands to mix the ingredients together until incorporated.</li>
+            <li>Step 4
+                Place the meat mixture in a casserole dish or on a rimmed baking sheet and shape into a rectangle, approximately 7" long, 4" wide, and 1.5" thick.</li>
+            <li>Step 5
+                To make the glaze, stir together the ketchup, brown sugar, mustard, and Worcestershire sauce. Spread the glaze over the unbaked meatloaf.</li>
+            <li>Step 6
+                Bake the meatloaf in the preheated oven for 50-55 minutes, or until the internal temperature reaches 160ºF. Remove the meatloaf from the oven, let it sit for 5-10 minutes, then slice into eight pieces and serve.</li>            
+            </ul>
+        </div>
+        </body>
+    </html>
